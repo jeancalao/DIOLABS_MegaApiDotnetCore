@@ -13,16 +13,16 @@
   >
   <br />
   <a
-    href="https://github.com/felipeAguiarCode/MegaApiDotnetCore/actions/workflows/build.yml"
+    href="https://github.com/jeancalao/MegaApiDotnetCore/actions/workflows/build.yml"
   >
     <img
-      src="https://github.com/felipeAguiarCode/MegaApiDotnetCore/actions/workflows/build.yml/badge.svg"
+      src="https://github.com/jeancalao/MegaApiDotnetCore/actions/workflows/build.yml/badge.svg"
       alt=""
     />
   </a>
-  <a href="https://github.com/felipeAguiarCode/MegaApiDotnetCore/releases/latest">
+  <a href="https://github.com/jeancalao/MegaApiDotnetCore/releases/latest">
     <img
-      src="https://img.shields.io/github/v/release/felipeAguiarCode/MegaApiDotnetCore"
+      src="https://img.shields.io/github/v/release/jeancalao/MegaApiDotnetCore"
       alt="Latest Release"
     />
   </a>
@@ -143,8 +143,11 @@ src
 │   │     ├── 📂 Migrations      [Migrations for database updates]
 │   ├── 📂 Repositories     [Repository pattern]
 ```
-
 ## License This software is licensed under the terms of the [MIT]
+## License
 
-⌨️ FelipeAguiar -
-[Github](https://github.com/felipeAguiarCode)
+This software is licensed under the terms of the [MIT License](LICENSE).
+
+⌨️ jeancalao - [Github](https://github.com/jeancalao)
+
+
